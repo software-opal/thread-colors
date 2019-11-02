@@ -129,10 +129,8 @@ class ThreadData:
     def normalise_data(self):
         self.normalised_data = {}
         for brand, thread_by_file in sorted(self.data.items()):
-            print(brand, list(thread_by_file.keys()))
             first = next(iter(thread_by_file.values()))
             if all(threads == first for threads in thread_by_file.values()):
-                print(f"    Only data-set")
                 self.normalised_data[(brand, None)] = next(
                     iter(thread_by_file.values())
                 )
@@ -142,7 +140,6 @@ class ThreadData:
                     for threads in thread_by_file.values()
                     for key, color in threads.items()
                 ]
-                print(f"   Thread counts{len(all_threads)} // {len(dict(all_threads))}")
                 if len(all_threads) == len(dict(all_threads)):
                     self.normalised_data[(brand, None)] = dict(all_threads)
                 else:
