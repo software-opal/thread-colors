@@ -8,4 +8,4 @@ mod tests {
 mod thread;
 pub use crate::thread::{OwnedThread, Thread, ThreadRef};
 
-mod generated;
+pub mod generated;

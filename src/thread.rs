@@ -14,6 +14,17 @@ pub struct ThreadRef<'a> {
     color: &'a [u8; 3],
 }
 
+impl<'a> ThreadRef<'a> {
+    pub const fn new(brand: &'a str, name: &'a str, code: &'a str, color: &'a [u8; 3]) -> Self {
+        Self {
+            brand,
+            name,
+            code,
+            color,
+        }
+    }
+}
+
 impl<'l> Thread for ThreadRef<'l> {
     fn rgb<'a>(&'a self) -> &'a [u8; 3] {
         self.color
@@ -52,6 +63,17 @@ pub struct OwnedThread {
     color: [u8; 3],
 }
 
+impl OwnedThread {
+    pub const fn new(brand: String, name: String, code: String, color: [u8; 3]) -> Self {
+        Self {
+            brand,
+            name,
+            code,
+            color,
+        }
+    }
+}
+
 impl Thread for OwnedThread {
     fn rgb<'a>(&'a self) -> &'a [u8; 3] {
         &self.color
@@ -75,9 +97,9 @@ impl Thread for OwnedThread {
     }
     fn to_owned(&self) -> OwnedThread {
         OwnedThread {
-            brand: self.brand,
-            name: self.name,
-            code: self.code,
+            brand: self.brand.clone(),
+            name: self.name.clone(),
+            code: self.code.clone(),
             color: self.color,
         }
     }
