@@ -1,5 +1,6 @@
 {
  "brand": "Sulky Polyester",
+ "key": "sulky_polyester",
  "threads": [
   {
    "code": "100",
@@ -27,15 +28,6 @@
     31
    ],
    "name": "Black Stallion"
-  },
-  {
-   "code": "1001",
-   "color": [
-    249,
-    249,
-    255
-   ],
-   "name": "Bright White"
   },
   {
    "code": "1002",
@@ -3816,15 +3808,6 @@
     29
    ],
    "name": "Light Orange"
-  },
-  {
-   "code": "304",
-   "color": [
-    227,
-    219,
-    194
-   ],
-   "name": "White Asparagus"
   },
   {
    "code": "305",

@@ -1,5 +1,6 @@
 {
  "brand": "Exquisite Poly",
+ "key": "exquisite_poly",
  "threads": [
   {
    "code": "10",
@@ -9,6 +10,24 @@
     237
    ],
    "name": "White"
+  },
+  {
+   "code": "15",
+   "color": [
+    236,
+    238,
+    234
+   ],
+   "name": "Lilac Tint White"
+  },
+  {
+   "code": "20",
+   "color": [
+    73,
+    56,
+    36
+   ],
+   "name": "Mocha Brown Very Dark"
   },
   {
    "code": "101",
@@ -353,15 +372,6 @@
    "name": "Brown"
   },
   {
-   "code": "15",
-   "color": [
-    236,
-    238,
-    234
-   ],
-   "name": "Lilac Tint White"
-  },
-  {
    "code": "1520",
    "color": [
     163,
@@ -486,15 +496,6 @@
     81
    ],
    "name": "Medium Red/Orange"
-  },
-  {
-   "code": "20",
-   "color": [
-    73,
-    56,
-    36
-   ],
-   "name": "Mocha Brown Very Dark"
   },
   {
    "code": "2031",

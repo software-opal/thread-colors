@@ -1,33 +1,7 @@
 {
  "brand": "Aurifil Royal",
+ "key": "aurifil_royal",
  "threads": [
-  {
-   "code": "AG001",
-   "color": [
-    225,
-    225,
-    0
-   ],
-   "name": "Golden"
-  },
-  {
-   "code": "AG002",
-   "color": [
-    191,
-    191,
-    0
-   ],
-   "name": "Gold"
-  },
-  {
-   "code": "AS001",
-   "color": [
-    128,
-    128,
-    128
-   ],
-   "name": "Silver"
-  },
   {
    "code": "C001",
    "color": [
@@ -4489,6 +4463,33 @@
     192,
     192,
     192
+   ],
+   "name": "Silver"
+  },
+  {
+   "code": "AG001",
+   "color": [
+    225,
+    225,
+    0
+   ],
+   "name": "Golden"
+  },
+  {
+   "code": "AG002",
+   "color": [
+    191,
+    191,
+    0
+   ],
+   "name": "Gold"
+  },
+  {
+   "code": "AS001",
+   "color": [
+    128,
+    128,
+    128
    ],
    "name": "Silver"
   }

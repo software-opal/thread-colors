@@ -1,0 +1,267 @@
+{
+ "brand": "Viking Palette",
+ "key": "viking_palette_vikingpl",
+ "threads": [
+  {
+   "code": "1",
+   "color": [
+    0,
+    0,
+    0
+   ],
+   "name": "Black"
+  },
+  {
+   "code": "2",
+   "color": [
+    0,
+    0,
+    255
+   ],
+   "name": "Blue"
+  },
+  {
+   "code": "3",
+   "color": [
+    0,
+    255,
+    0
+   ],
+   "name": "Light Green"
+  },
+  {
+   "code": "4",
+   "color": [
+    255,
+    0,
+    0
+   ],
+   "name": "Red"
+  },
+  {
+   "code": "5",
+   "color": [
+    255,
+    0,
+    255
+   ],
+   "name": "Purple"
+  },
+  {
+   "code": "6",
+   "color": [
+    255,
+    255,
+    0
+   ],
+   "name": "Yellow"
+  },
+  {
+   "code": "7",
+   "color": [
+    132,
+    130,
+    132
+   ],
+   "name": "Gray"
+  },
+  {
+   "code": "8",
+   "color": [
+    0,
+    130,
+    255
+   ],
+   "name": "Light Blue"
+  },
+  {
+   "code": "9",
+   "color": [
+    0,
+    255,
+    132
+   ],
+   "name": "Green"
+  },
+  {
+   "code": "10",
+   "color": [
+    255,
+    130,
+    0
+   ],
+   "name": "Orange"
+  },
+  {
+   "code": "11",
+   "color": [
+    255,
+    162,
+    181
+   ],
+   "name": "Pink"
+  },
+  {
+   "code": "12",
+   "color": [
+    198,
+    65,
+    0
+   ],
+   "name": "Brown"
+  },
+  {
+   "code": "13",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "name": "White"
+  },
+  {
+   "code": "14",
+   "color": [
+    0,
+    0,
+    132
+   ],
+   "name": "Dark Blue"
+  },
+  {
+   "code": "15",
+   "color": [
+    0,
+    130,
+    0
+   ],
+   "name": "Dark Green"
+  },
+  {
+   "code": "16",
+   "color": [
+    165,
+    0,
+    0
+   ],
+   "name": "Dark Red"
+  },
+  {
+   "code": "17",
+   "color": [
+    255,
+    121,
+    123
+   ],
+   "name": "Light Red"
+  },
+  {
+   "code": "18",
+   "color": [
+    132,
+    0,
+    132
+   ],
+   "name": "Dark Purple"
+  },
+  {
+   "code": "19",
+   "color": [
+    255,
+    130,
+    255
+   ],
+   "name": "Light Purple"
+  },
+  {
+   "code": "20",
+   "color": [
+    198,
+    195,
+    0
+   ],
+   "name": "Dark Yellow"
+  },
+  {
+   "code": "21",
+   "color": [
+    255,
+    255,
+    165
+   ],
+   "name": "Light Yellow"
+  },
+  {
+   "code": "22",
+   "color": [
+    66,
+    65,
+    66
+   ],
+   "name": "Dark Gray"
+  },
+  {
+   "code": "23",
+   "color": [
+    198,
+    195,
+    198
+   ],
+   "name": "Light Gray"
+  },
+  {
+   "code": "24",
+   "color": [
+    231,
+    65,
+    0
+   ],
+   "name": "Dark Orange"
+  },
+  {
+   "code": "25",
+   "color": [
+    255,
+    174,
+    66
+   ],
+   "name": "Light Orange"
+  },
+  {
+   "code": "26",
+   "color": [
+    255,
+    89,
+    123
+   ],
+   "name": "Dark Pink"
+  },
+  {
+   "code": "27",
+   "color": [
+    255,
+    211,
+    214
+   ],
+   "name": "Light Pink"
+  },
+  {
+   "code": "28",
+   "color": [
+    132,
+    32,
+    0
+   ],
+   "name": "Dark Brown"
+  },
+  {
+   "code": "29",
+   "color": [
+    231,
+    97,
+    33
+   ],
+   "name": "Light Brown"
+  }
+ ]
+}

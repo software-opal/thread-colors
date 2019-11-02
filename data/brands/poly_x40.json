@@ -1,6 +1,799 @@
 {
  "brand": "Poly-X40",
+ "key": "poly_x40",
  "threads": [
+  {
+   "code": "0909",
+   "color": [
+    45,
+    175,
+    163
+   ],
+   "name": "Light Aqua"
+  },
+  {
+   "code": "0913",
+   "color": [
+    0,
+    73,
+    98
+   ],
+   "name": "Danish Teal"
+  },
+  {
+   "code": "0944",
+   "color": [
+    219,
+    224,
+    194
+   ],
+   "name": "Grass Green 3"
+  },
+  {
+   "code": "0945",
+   "color": [
+    235,
+    240,
+    207
+   ],
+   "name": "Grass Green 4"
+  },
+  {
+   "code": "0947",
+   "color": [
+    179,
+    220,
+    178
+   ],
+   "name": "Tea Green"
+  },
+  {
+   "code": "0949",
+   "color": [
+    95,
+    196,
+    156
+   ],
+   "name": "Green Meadow"
+  },
+  {
+   "code": "0950",
+   "color": [
+    153,
+    181,
+    97
+   ],
+   "name": "Avocado"
+  },
+  {
+   "code": "0951",
+   "color": [
+    168,
+    160,
+    75
+   ],
+   "name": "Light Swamp Green"
+  },
+  {
+   "code": "0952",
+   "color": [
+    155,
+    151,
+    54
+   ],
+   "name": "Medium Gold"
+  },
+  {
+   "code": "0953",
+   "color": [
+    134,
+    144,
+    45
+   ],
+   "name": "Swamp Green"
+  },
+  {
+   "code": "0955",
+   "color": [
+    86,
+    96,
+    0
+   ],
+   "name": "Olive Drab"
+  },
+  {
+   "code": "0956",
+   "color": [
+    119,
+    132,
+    42
+   ],
+   "name": "Seagrass"
+  },
+  {
+   "code": "0961",
+   "color": [
+    117,
+    182,
+    174
+   ],
+   "name": "Turquoise 4"
+  },
+  {
+   "code": "0962",
+   "color": [
+    184,
+    202,
+    180
+   ],
+   "name": "Silver Green"
+  },
+  {
+   "code": "0963",
+   "color": [
+    61,
+    97,
+    28
+   ],
+   "name": "Money"
+  },
+  {
+   "code": "0965",
+   "color": [
+    56,
+    93,
+    109
+   ],
+   "name": "Blue Mist"
+  },
+  {
+   "code": "0966",
+   "color": [
+    69,
+    97,
+    109
+   ],
+   "name": "Lake Combo"
+  },
+  {
+   "code": "0982",
+   "color": [
+    211,
+    188,
+    86
+   ],
+   "name": "Light Gold"
+  },
+  {
+   "code": "0983",
+   "color": [
+    174,
+    190,
+    32
+   ],
+   "name": "Green Onion"
+  },
+  {
+   "code": "0984",
+   "color": [
+    200,
+    225,
+    167
+   ],
+   "name": "Seedling"
+  },
+  {
+   "code": "0985",
+   "color": [
+    196,
+    221,
+    137
+   ],
+   "name": "Green Apple"
+  },
+  {
+   "code": "0988",
+   "color": [
+    109,
+    179,
+    63
+   ],
+   "name": "Cilantro"
+  },
+  {
+   "code": "0990",
+   "color": [
+    0,
+    166,
+    78
+   ],
+   "name": "Verde Broght Green"
+  },
+  {
+   "code": "0992",
+   "color": [
+    0,
+    114,
+    63
+   ],
+   "name": "Jungle Green"
+  },
+  {
+   "code": "0995",
+   "color": [
+    0,
+    81,
+    58
+   ],
+   "name": "Spruce"
+  },
+  {
+   "code": "1031",
+   "color": [
+    44,
+    46,
+    146
+   ],
+   "name": "Vintage Grapes"
+  },
+  {
+   "code": "1140",
+   "color": [
+    240,
+    242,
+    229
+   ],
+   "name": "Maize 4"
+  },
+  {
+   "code": "1141",
+   "color": [
+    175,
+    170,
+    148
+   ],
+   "name": "Muslin"
+  },
+  {
+   "code": "1145",
+   "color": [
+    228,
+    187,
+    131
+   ],
+   "name": "Straw"
+  },
+  {
+   "code": "1146",
+   "color": [
+    228,
+    215,
+    181
+   ],
+   "name": "Tan 2"
+  },
+  {
+   "code": "1147",
+   "color": [
+    195,
+    187,
+    168
+   ],
+   "name": "Blonde"
+  },
+  {
+   "code": "1148",
+   "color": [
+    205,
+    184,
+    153
+   ],
+   "name": "Tan 3"
+  },
+  {
+   "code": "1149",
+   "color": [
+    150,
+    154,
+    131
+   ],
+   "name": "Pewter"
+  },
+  {
+   "code": "1152",
+   "color": [
+    98,
+    70,
+    46
+   ],
+   "name": "Coffee 2"
+  },
+  {
+   "code": "1163",
+   "color": [
+    0,
+    93,
+    163
+   ],
+   "name": "Chicory"
+  },
+  {
+   "code": "1183",
+   "color": [
+    138,
+    199,
+    62
+   ],
+   "name": "Erin Green"
+  },
+  {
+   "code": "1240",
+   "color": [
+    178,
+    1,
+    55
+   ],
+   "name": "Carolina Red"
+  },
+  {
+   "code": "1241",
+   "color": [
+    152,
+    1,
+    46
+   ],
+   "name": "Cranberry 3"
+  },
+  {
+   "code": "1243",
+   "color": [
+    119,
+    1,
+    51
+   ],
+   "name": "Russet 3"
+  },
+  {
+   "code": "1313",
+   "color": [
+    113,
+    73,
+    146
+   ],
+   "name": "Orchid Bouquet"
+  },
+  {
+   "code": "1323",
+   "color": [
+    118,
+    34,
+    130
+   ],
+   "name": "Orchid"
+  },
+  {
+   "code": "1324",
+   "color": [
+    136,
+    114,
+    178
+   ],
+   "name": "Tulip 3"
+  },
+  {
+   "code": "1331",
+   "color": [
+    71,
+    71,
+    157
+   ],
+   "name": "Vintage Grapes 2"
+  },
+  {
+   "code": "1386",
+   "color": [
+    0,
+    82,
+    103
+   ],
+   "name": "Enchanted Sea"
+  },
+  {
+   "code": "1423",
+   "color": [
+    0,
+    78,
+    161
+   ],
+   "name": "Light Royal 2"
+  },
+  {
+   "code": "1520",
+   "color": [
+    135,
+    123,
+    107
+   ],
+   "name": "Antelope"
+  },
+  {
+   "code": "1527",
+   "color": [
+    95,
+    61,
+    33
+   ],
+   "name": "Twig 2"
+  },
+  {
+   "code": "1545",
+   "color": [
+    119,
+    69,
+    0
+   ],
+   "name": "Nutmeg 3"
+  },
+  {
+   "code": "1552",
+   "color": [
+    180,
+    152,
+    89
+   ],
+   "name": "New Gold"
+  },
+  {
+   "code": "1615",
+   "color": [
+    0,
+    167,
+    124
+   ],
+   "name": "Seafoam"
+  },
+  {
+   "code": "1619",
+   "color": [
+    166,
+    206,
+    55
+   ],
+   "name": "Green Apple 2"
+  },
+  {
+   "code": "1707",
+   "color": [
+    191,
+    192,
+    194
+   ],
+   "name": "Silver"
+  },
+  {
+   "code": "1708",
+   "color": [
+    187,
+    188,
+    190
+   ],
+   "name": "Moonlight"
+  },
+  {
+   "code": "1710",
+   "color": [
+    160,
+    161,
+    165
+   ],
+   "name": "Zinc"
+  },
+  {
+   "code": "1713",
+   "color": [
+    125,
+    129,
+    130
+   ],
+   "name": "Ash 2"
+  },
+  {
+   "code": "1716",
+   "color": [
+    105,
+    106,
+    111
+   ],
+   "name": "Dark Grey 2"
+  },
+  {
+   "code": "2031",
+   "color": [
+    0,
+    81,
+    155
+   ],
+   "name": "Night Horizon"
+  },
+  {
+   "code": "2093",
+   "color": [
+    0,
+    145,
+    212
+   ],
+   "name": "Baltic Blue"
+  },
+  {
+   "code": "2250",
+   "color": [
+    123,
+    21,
+    68
+   ],
+   "name": "Red Jubilee"
+  },
+  {
+   "code": "2518",
+   "color": [
+    216,
+    164,
+    116
+   ],
+   "name": "French Beige"
+  },
+  {
+   "code": "2519",
+   "color": [
+    181,
+    155,
+    19
+   ],
+   "name": "Bright Gold 2"
+  },
+  {
+   "code": "2562",
+   "color": [
+    209,
+    158,
+    95
+   ],
+   "name": "French Beige 2"
+  },
+  {
+   "code": "3001",
+   "color": [
+    244,
+    123,
+    32
+   ],
+   "name": "Paprika"
+  },
+  {
+   "code": "3014",
+   "color": [
+    245,
+    157,
+    135
+   ],
+   "name": "Papaya"
+  },
+  {
+   "code": "3015",
+   "color": [
+    180,
+    0,
+    27
+   ],
+   "name": "Cherry 2"
+  },
+  {
+   "code": "3016",
+   "color": [
+    241,
+    89,
+    75
+   ],
+   "name": "Country Rose 4"
+  },
+  {
+   "code": "3142",
+   "color": [
+    153,
+    81,
+    0
+   ],
+   "name": "Bronze"
+  },
+  {
+   "code": "3325",
+   "color": [
+    0,
+    125,
+    103
+   ],
+   "name": "Lincoln Green"
+  },
+  {
+   "code": "4004",
+   "color": [
+    138,
+    199,
+    223
+   ],
+   "name": "Chambray Blue 2"
+  },
+  {
+   "code": "4117",
+   "color": [
+    254,
+    213,
+    0
+   ],
+   "name": "Sunflower"
+  },
+  {
+   "code": "4371",
+   "color": [
+    136,
+    109,
+    88
+   ],
+   "name": "Prairie Beige"
+  },
+  {
+   "code": "4419",
+   "color": [
+    94,
+    203,
+    226
+   ],
+   "name": "Periwinkle 3"
+  },
+  {
+   "code": "4453",
+   "color": [
+    0,
+    102,
+    177
+   ],
+   "name": "Blue Suede 2"
+  },
+  {
+   "code": "4627",
+   "color": [
+    0,
+    103,
+    102
+   ],
+   "name": "Azure 2"
+  },
+  {
+   "code": "4735",
+   "color": [
+    0,
+    94,
+    96
+   ],
+   "name": "Dark Green 2"
+  },
+  {
+   "code": "5550",
+   "color": [
+    0,
+    52,
+    102
+   ],
+   "name": "Royal 2"
+  },
+  {
+   "code": "5551",
+   "color": [
+    0,
+    75,
+    143
+   ],
+   "name": "Cobalt Blue 2"
+  },
+  {
+   "code": "5552",
+   "color": [
+    0,
+    40,
+    76
+   ],
+   "name": "Legion Blue 3"
+  },
+  {
+   "code": "5553",
+   "color": [
+    26,
+    64,
+    100
+   ],
+   "name": "Light Navy 2"
+  },
+  {
+   "code": "5554",
+   "color": [
+    114,
+    176,
+    217
+   ],
+   "name": "Spa Blue"
+  },
+  {
+   "code": "5555",
+   "color": [
+    0,
+    131,
+    173
+   ],
+   "name": "Surf Blue"
+  },
+  {
+   "code": "5556",
+   "color": [
+    0,
+    54,
+    92
+   ],
+   "name": "Black Pearl"
+  },
+  {
+   "code": "5557",
+   "color": [
+    0,
+    176,
+    98
+   ],
+   "name": "Verde Bright Green 2"
+  },
+  {
+   "code": "5558",
+   "color": [
+    79,
+    70,
+    37
+   ],
+   "name": "Bark"
+  },
+  {
+   "code": "5559",
+   "color": [
+    208,
+    202,
+    202
+   ],
+   "name": "Stainless Steel"
+  },
+  {
+   "code": "5829",
+   "color": [
+    209,
+    201,
+    199
+   ],
+   "name": "Light Silver 2"
+  },
+  {
+   "code": "6137",
+   "color": [
+    163,
+    215,
+    237
+   ],
+   "name": "Baby Blue"
+  },
+  {
+   "code": "8010",
+   "color": [
+    106,
+    117,
+    123
+   ],
+   "name": "Light Grey 2"
+  },
   {
    "code": "0010",
    "color": [
@@ -1782,798 +2575,6 @@
     162
    ],
    "name": "Aqua 2"
-  },
-  {
-   "code": "0909",
-   "color": [
-    45,
-    175,
-    163
-   ],
-   "name": "Light Aqua"
-  },
-  {
-   "code": "0913",
-   "color": [
-    0,
-    73,
-    98
-   ],
-   "name": "Danish Teal"
-  },
-  {
-   "code": "0944",
-   "color": [
-    219,
-    224,
-    194
-   ],
-   "name": "Grass Green 3"
-  },
-  {
-   "code": "0945",
-   "color": [
-    235,
-    240,
-    207
-   ],
-   "name": "Grass Green 4"
-  },
-  {
-   "code": "0947",
-   "color": [
-    179,
-    220,
-    178
-   ],
-   "name": "Tea Green"
-  },
-  {
-   "code": "0949",
-   "color": [
-    95,
-    196,
-    156
-   ],
-   "name": "Green Meadow"
-  },
-  {
-   "code": "0950",
-   "color": [
-    153,
-    181,
-    97
-   ],
-   "name": "Avocado"
-  },
-  {
-   "code": "0951",
-   "color": [
-    168,
-    160,
-    75
-   ],
-   "name": "Light Swamp Green"
-  },
-  {
-   "code": "0952",
-   "color": [
-    155,
-    151,
-    54
-   ],
-   "name": "Medium Gold"
-  },
-  {
-   "code": "0953",
-   "color": [
-    134,
-    144,
-    45
-   ],
-   "name": "Swamp Green"
-  },
-  {
-   "code": "0955",
-   "color": [
-    86,
-    96,
-    0
-   ],
-   "name": "Olive Drab"
-  },
-  {
-   "code": "0956",
-   "color": [
-    119,
-    132,
-    42
-   ],
-   "name": "Seagrass"
-  },
-  {
-   "code": "0961",
-   "color": [
-    117,
-    182,
-    174
-   ],
-   "name": "Turquoise 4"
-  },
-  {
-   "code": "0962",
-   "color": [
-    184,
-    202,
-    180
-   ],
-   "name": "Silver Green"
-  },
-  {
-   "code": "0963",
-   "color": [
-    61,
-    97,
-    28
-   ],
-   "name": "Money"
-  },
-  {
-   "code": "0965",
-   "color": [
-    56,
-    93,
-    109
-   ],
-   "name": "Blue Mist"
-  },
-  {
-   "code": "0966",
-   "color": [
-    69,
-    97,
-    109
-   ],
-   "name": "Lake Combo"
-  },
-  {
-   "code": "0982",
-   "color": [
-    211,
-    188,
-    86
-   ],
-   "name": "Light Gold"
-  },
-  {
-   "code": "0983",
-   "color": [
-    174,
-    190,
-    32
-   ],
-   "name": "Green Onion"
-  },
-  {
-   "code": "0984",
-   "color": [
-    200,
-    225,
-    167
-   ],
-   "name": "Seedling"
-  },
-  {
-   "code": "0985",
-   "color": [
-    196,
-    221,
-    137
-   ],
-   "name": "Green Apple"
-  },
-  {
-   "code": "0988",
-   "color": [
-    109,
-    179,
-    63
-   ],
-   "name": "Cilantro"
-  },
-  {
-   "code": "0990",
-   "color": [
-    0,
-    166,
-    78
-   ],
-   "name": "Verde Broght Green"
-  },
-  {
-   "code": "0992",
-   "color": [
-    0,
-    114,
-    63
-   ],
-   "name": "Jungle Green"
-  },
-  {
-   "code": "0995",
-   "color": [
-    0,
-    81,
-    58
-   ],
-   "name": "Spruce"
-  },
-  {
-   "code": "1031",
-   "color": [
-    44,
-    46,
-    146
-   ],
-   "name": "Vintage Grapes"
-  },
-  {
-   "code": "1140",
-   "color": [
-    240,
-    242,
-    229
-   ],
-   "name": "Maize 4"
-  },
-  {
-   "code": "1141",
-   "color": [
-    175,
-    170,
-    148
-   ],
-   "name": "Muslin"
-  },
-  {
-   "code": "1145",
-   "color": [
-    228,
-    187,
-    131
-   ],
-   "name": "Straw"
-  },
-  {
-   "code": "1146",
-   "color": [
-    228,
-    215,
-    181
-   ],
-   "name": "Tan 2"
-  },
-  {
-   "code": "1147",
-   "color": [
-    195,
-    187,
-    168
-   ],
-   "name": "Blonde"
-  },
-  {
-   "code": "1148",
-   "color": [
-    205,
-    184,
-    153
-   ],
-   "name": "Tan 3"
-  },
-  {
-   "code": "1149",
-   "color": [
-    150,
-    154,
-    131
-   ],
-   "name": "Pewter"
-  },
-  {
-   "code": "1152",
-   "color": [
-    98,
-    70,
-    46
-   ],
-   "name": "Coffee 2"
-  },
-  {
-   "code": "1163",
-   "color": [
-    0,
-    93,
-    163
-   ],
-   "name": "Chicory"
-  },
-  {
-   "code": "1183",
-   "color": [
-    138,
-    199,
-    62
-   ],
-   "name": "Erin Green"
-  },
-  {
-   "code": "1240",
-   "color": [
-    178,
-    1,
-    55
-   ],
-   "name": "Carolina Red"
-  },
-  {
-   "code": "1241",
-   "color": [
-    152,
-    1,
-    46
-   ],
-   "name": "Cranberry 3"
-  },
-  {
-   "code": "1243",
-   "color": [
-    119,
-    1,
-    51
-   ],
-   "name": "Russet 3"
-  },
-  {
-   "code": "1313",
-   "color": [
-    113,
-    73,
-    146
-   ],
-   "name": "Orchid Bouquet"
-  },
-  {
-   "code": "1323",
-   "color": [
-    118,
-    34,
-    130
-   ],
-   "name": "Orchid"
-  },
-  {
-   "code": "1324",
-   "color": [
-    136,
-    114,
-    178
-   ],
-   "name": "Tulip 3"
-  },
-  {
-   "code": "1331",
-   "color": [
-    71,
-    71,
-    157
-   ],
-   "name": "Vintage Grapes 2"
-  },
-  {
-   "code": "1386",
-   "color": [
-    0,
-    82,
-    103
-   ],
-   "name": "Enchanted Sea"
-  },
-  {
-   "code": "1423",
-   "color": [
-    0,
-    78,
-    161
-   ],
-   "name": "Light Royal 2"
-  },
-  {
-   "code": "1520",
-   "color": [
-    135,
-    123,
-    107
-   ],
-   "name": "Antelope"
-  },
-  {
-   "code": "1527",
-   "color": [
-    95,
-    61,
-    33
-   ],
-   "name": "Twig 2"
-  },
-  {
-   "code": "1545",
-   "color": [
-    119,
-    69,
-    0
-   ],
-   "name": "Nutmeg 3"
-  },
-  {
-   "code": "1552",
-   "color": [
-    180,
-    152,
-    89
-   ],
-   "name": "New Gold"
-  },
-  {
-   "code": "1615",
-   "color": [
-    0,
-    167,
-    124
-   ],
-   "name": "Seafoam"
-  },
-  {
-   "code": "1619",
-   "color": [
-    166,
-    206,
-    55
-   ],
-   "name": "Green Apple 2"
-  },
-  {
-   "code": "1707",
-   "color": [
-    191,
-    192,
-    194
-   ],
-   "name": "Silver"
-  },
-  {
-   "code": "1708",
-   "color": [
-    187,
-    188,
-    190
-   ],
-   "name": "Moonlight"
-  },
-  {
-   "code": "1710",
-   "color": [
-    160,
-    161,
-    165
-   ],
-   "name": "Zinc"
-  },
-  {
-   "code": "1713",
-   "color": [
-    125,
-    129,
-    130
-   ],
-   "name": "Ash 2"
-  },
-  {
-   "code": "1716",
-   "color": [
-    105,
-    106,
-    111
-   ],
-   "name": "Dark Grey 2"
-  },
-  {
-   "code": "2031",
-   "color": [
-    0,
-    81,
-    155
-   ],
-   "name": "Night Horizon"
-  },
-  {
-   "code": "2093",
-   "color": [
-    0,
-    145,
-    212
-   ],
-   "name": "Baltic Blue"
-  },
-  {
-   "code": "2250",
-   "color": [
-    123,
-    21,
-    68
-   ],
-   "name": "Red Jubilee"
-  },
-  {
-   "code": "2518",
-   "color": [
-    216,
-    164,
-    116
-   ],
-   "name": "French Beige"
-  },
-  {
-   "code": "2519",
-   "color": [
-    181,
-    155,
-    19
-   ],
-   "name": "Bright Gold 2"
-  },
-  {
-   "code": "2562",
-   "color": [
-    209,
-    158,
-    95
-   ],
-   "name": "French Beige 2"
-  },
-  {
-   "code": "3001",
-   "color": [
-    244,
-    123,
-    32
-   ],
-   "name": "Paprika"
-  },
-  {
-   "code": "3014",
-   "color": [
-    245,
-    157,
-    135
-   ],
-   "name": "Papaya"
-  },
-  {
-   "code": "3015",
-   "color": [
-    180,
-    0,
-    27
-   ],
-   "name": "Cherry 2"
-  },
-  {
-   "code": "3016",
-   "color": [
-    241,
-    89,
-    75
-   ],
-   "name": "Country Rose 4"
-  },
-  {
-   "code": "3142",
-   "color": [
-    153,
-    81,
-    0
-   ],
-   "name": "Bronze"
-  },
-  {
-   "code": "3325",
-   "color": [
-    0,
-    125,
-    103
-   ],
-   "name": "Lincoln Green"
-  },
-  {
-   "code": "4004",
-   "color": [
-    138,
-    199,
-    223
-   ],
-   "name": "Chambray Blue 2"
-  },
-  {
-   "code": "4117",
-   "color": [
-    254,
-    213,
-    0
-   ],
-   "name": "Sunflower"
-  },
-  {
-   "code": "4371",
-   "color": [
-    136,
-    109,
-    88
-   ],
-   "name": "Prairie Beige"
-  },
-  {
-   "code": "4419",
-   "color": [
-    94,
-    203,
-    226
-   ],
-   "name": "Periwinkle 3"
-  },
-  {
-   "code": "4453",
-   "color": [
-    0,
-    102,
-    177
-   ],
-   "name": "Blue Suede 2"
-  },
-  {
-   "code": "4627",
-   "color": [
-    0,
-    103,
-    102
-   ],
-   "name": "Azure 2"
-  },
-  {
-   "code": "4735",
-   "color": [
-    0,
-    94,
-    96
-   ],
-   "name": "Dark Green 2"
-  },
-  {
-   "code": "5550",
-   "color": [
-    0,
-    52,
-    102
-   ],
-   "name": "Royal 2"
-  },
-  {
-   "code": "5551",
-   "color": [
-    0,
-    75,
-    143
-   ],
-   "name": "Cobalt Blue 2"
-  },
-  {
-   "code": "5552",
-   "color": [
-    0,
-    40,
-    76
-   ],
-   "name": "Legion Blue 3"
-  },
-  {
-   "code": "5553",
-   "color": [
-    26,
-    64,
-    100
-   ],
-   "name": "Light Navy 2"
-  },
-  {
-   "code": "5554",
-   "color": [
-    114,
-    176,
-    217
-   ],
-   "name": "Spa Blue"
-  },
-  {
-   "code": "5555",
-   "color": [
-    0,
-    131,
-    173
-   ],
-   "name": "Surf Blue"
-  },
-  {
-   "code": "5556",
-   "color": [
-    0,
-    54,
-    92
-   ],
-   "name": "Black Pearl"
-  },
-  {
-   "code": "5557",
-   "color": [
-    0,
-    176,
-    98
-   ],
-   "name": "Verde Bright Green 2"
-  },
-  {
-   "code": "5558",
-   "color": [
-    79,
-    70,
-    37
-   ],
-   "name": "Bark"
-  },
-  {
-   "code": "5559",
-   "color": [
-    208,
-    202,
-    202
-   ],
-   "name": "Stainless Steel"
-  },
-  {
-   "code": "5829",
-   "color": [
-    209,
-    201,
-    199
-   ],
-   "name": "Light Silver 2"
-  },
-  {
-   "code": "6137",
-   "color": [
-    163,
-    215,
-    237
-   ],
-   "name": "Baby Blue"
-  },
-  {
-   "code": "8010",
-   "color": [
-    106,
-    117,
-    123
-   ],
-   "name": "Light Grey 2"
   }
  ]
 }

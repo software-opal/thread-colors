@@ -1,0 +1,555 @@
+{
+ "brand": "Brother Embroidery",
+ "key": "brother_embroidery_bro_emb",
+ "threads": [
+  {
+   "code": "900",
+   "color": [
+    0,
+    0,
+    0
+   ],
+   "name": "Black"
+  },
+  {
+   "code": "001",
+   "color": [
+    240,
+    240,
+    240
+   ],
+   "name": "White"
+  },
+  {
+   "code": "800",
+   "color": [
+    233,
+    26,
+    27
+   ],
+   "name": "Red"
+  },
+  {
+   "code": "085",
+   "color": [
+    249,
+    148,
+    185
+   ],
+   "name": "Pink"
+  },
+  {
+   "code": "086",
+   "color": [
+    240,
+    77,
+    141
+   ],
+   "name": "Deep Rose"
+  },
+  {
+   "code": "124",
+   "color": [
+    250,
+    218,
+    222
+   ],
+   "name": "Flesh Pink"
+  },
+  {
+   "code": "107",
+   "color": [
+    199,
+    3,
+    86
+   ],
+   "name": "Dark Fuchsia"
+  },
+  {
+   "code": "030",
+   "color": [
+    255,
+    56,
+    11
+   ],
+   "name": "Vermilion"
+  },
+  {
+   "code": "807",
+   "color": [
+    250,
+    55,
+    96
+   ],
+   "name": "Carmine"
+  },
+  {
+   "code": "869",
+   "color": [
+    115,
+    5,
+    121
+   ],
+   "name": "Royal Purple"
+  },
+  {
+   "code": "620",
+   "color": [
+    143,
+    56,
+    144
+   ],
+   "name": "Magenta"
+  },
+  {
+   "code": "079",
+   "color": [
+    254,
+    184,
+    201
+   ],
+   "name": "Salmon Pink"
+  },
+  {
+   "code": "333",
+   "color": [
+    180,
+    78,
+    101
+   ],
+   "name": "Amber Red"
+  },
+  {
+   "code": "202",
+   "color": [
+    237,
+    250,
+    115
+   ],
+   "name": "Lemon Yellow"
+  },
+  {
+   "code": "205",
+   "color": [
+    255,
+    255,
+    2
+   ],
+   "name": "Yellow"
+  },
+  {
+   "code": "206",
+   "color": [
+    253,
+    219,
+    17
+   ],
+   "name": "Harvest Gold"
+  },
+  {
+   "code": "208",
+   "color": [
+    252,
+    187,
+    52
+   ],
+   "name": "Orange"
+  },
+  {
+   "code": "126",
+   "color": [
+    253,
+    178,
+    68
+   ],
+   "name": "Pumpkin"
+  },
+  {
+   "code": "209",
+   "color": [
+    251,
+    157,
+    50
+   ],
+   "name": "Tangerine"
+  },
+  {
+   "code": "010",
+   "color": [
+    255,
+    253,
+    178
+   ],
+   "name": "Cream Brown"
+  },
+  {
+   "code": "812",
+   "color": [
+    255,
+    238,
+    145
+   ],
+   "name": "Cream Yellow"
+  },
+  {
+   "code": "348",
+   "color": [
+    212,
+    165,
+    94
+   ],
+   "name": "Khaki"
+  },
+  {
+   "code": "214",
+   "color": [
+    230,
+    174,
+    0
+   ],
+   "name": "Deep Gold"
+  },
+  {
+   "code": "328",
+   "color": [
+    192,
+    149,
+    9
+   ],
+   "name": "Brass"
+  },
+  {
+   "code": "307",
+   "color": [
+    255,
+    227,
+    196
+   ],
+   "name": "Linen"
+  },
+  {
+   "code": "058",
+   "color": [
+    43,
+    19,
+    0
+   ],
+   "name": "Dark Brown"
+  },
+  {
+   "code": "337",
+   "color": [
+    204,
+    93,
+    3
+   ],
+   "name": "Reddish Brown"
+  },
+  {
+   "code": "339",
+   "color": [
+    217,
+    84,
+    0
+   ],
+   "name": "Clay Brown"
+  },
+  {
+   "code": "843",
+   "color": [
+    239,
+    227,
+    188
+   ],
+   "name": "Beige"
+  },
+  {
+   "code": "399",
+   "color": [
+    216,
+    204,
+    201
+   ],
+   "name": "Warm Gray"
+  },
+  {
+   "code": "330",
+   "color": [
+    125,
+    110,
+    10
+   ],
+   "name": "Russet Brown"
+  },
+  {
+   "code": "323",
+   "color": [
+    180,
+    118,
+    38
+   ],
+   "name": "Light Brown"
+  },
+  {
+   "code": "542",
+   "color": [
+    172,
+    219,
+    192
+   ],
+   "name": "Seacrest"
+  },
+  {
+   "code": "502",
+   "color": [
+    161,
+    214,
+    125
+   ],
+   "name": "Mint Green"
+  },
+  {
+   "code": "509",
+   "color": [
+    105,
+    185,
+    69
+   ],
+   "name": "Leaf Green"
+  },
+  {
+   "code": "519",
+   "color": [
+    19,
+    43,
+    24
+   ],
+   "name": "Olive Green"
+  },
+  {
+   "code": "517",
+   "color": [
+    67,
+    82,
+    10
+   ],
+   "name": "Dark Olive"
+  },
+  {
+   "code": "534",
+   "color": [
+    0,
+    138,
+    116
+   ],
+   "name": "Teal Green"
+  },
+  {
+   "code": "507",
+   "color": [
+    5,
+    103,
+    63
+   ],
+   "name": "Emerald Green"
+  },
+  {
+   "code": "808",
+   "color": [
+    4,
+    55,
+    39
+   ],
+   "name": "Deep Green"
+  },
+  {
+   "code": "027",
+   "color": [
+    227,
+    242,
+    96
+   ],
+   "name": "Fresh Green"
+  },
+  {
+   "code": "513",
+   "color": [
+    112,
+    187,
+    41
+   ],
+   "name": "Lime Green"
+  },
+  {
+   "code": "515",
+   "color": [
+    48,
+    125,
+    38
+   ],
+   "name": "Moss Green"
+  },
+  {
+   "code": "405",
+   "color": [
+    10,
+    83,
+    168
+   ],
+   "name": "Blue"
+  },
+  {
+   "code": "406",
+   "color": [
+    10,
+    62,
+    145
+   ],
+   "name": "Ultramarine"
+  },
+  {
+   "code": "017",
+   "color": [
+    174,
+    219,
+    229
+   ],
+   "name": "Light Blue"
+  },
+  {
+   "code": "019",
+   "color": [
+    33,
+    135,
+    190
+   ],
+   "name": "Sky Blue"
+  },
+  {
+   "code": "420",
+   "color": [
+    12,
+    91,
+    165
+   ],
+   "name": "Electric Blue"
+  },
+  {
+   "code": "415",
+   "color": [
+    18,
+    73,
+    74
+   ],
+   "name": "Peacock Blue"
+  },
+  {
+   "code": "007",
+   "color": [
+    17,
+    31,
+    119
+   ],
+   "name": "Prussian Blue"
+  },
+  {
+   "code": "070",
+   "color": [
+    80,
+    104,
+    183
+   ],
+   "name": "Corn Flower"
+  },
+  {
+   "code": "810",
+   "color": [
+    228,
+    154,
+    204
+   ],
+   "name": "Light Lilac"
+  },
+  {
+   "code": "612",
+   "color": [
+    146,
+    94,
+    175
+   ],
+   "name": "Lilac"
+  },
+  {
+   "code": "613",
+   "color": [
+    107,
+    28,
+    136
+   ],
+   "name": "Violet"
+  },
+  {
+   "code": "614",
+   "color": [
+    79,
+    41,
+    141
+   ],
+   "name": "Purple"
+  },
+  {
+   "code": "804",
+   "color": [
+    182,
+    174,
+    216
+   ],
+   "name": "Lavender"
+  },
+  {
+   "code": "607",
+   "color": [
+    104,
+    104,
+    181
+   ],
+   "name": "Wistaria Violet"
+  },
+  {
+   "code": "704",
+   "color": [
+    81,
+    84,
+    86
+   ],
+   "name": "Pewter"
+  },
+  {
+   "code": "707",
+   "color": [
+    42,
+    49,
+    51
+   ],
+   "name": "Dark Gray"
+  },
+  {
+   "code": "005",
+   "color": [
+    169,
+    168,
+    167
+   ],
+   "name": "Silver"
+  },
+  {
+   "code": "817",
+   "color": [
+    137,
+    136,
+    135
+   ],
+   "name": "Gray"
+  }
+ ]
+}

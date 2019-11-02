@@ -1,5 +1,6 @@
 {
  "brand": "Gunold COTTY-Zusatz",
+ "key": "gunold_cotty_zusatz",
  "threads": [
   {
    "code": "10",
@@ -11,6 +12,15 @@
    "name": "Golden Cream"
   },
   {
+   "code": "68",
+   "color": [
+    0,
+    124,
+    64
+   ],
+   "name": "Kelly"
+  },
+  {
    "code": "11",
    "color": [
     133,
@@ -18,6 +28,15 @@
     79
    ],
    "name": "Nutmeg"
+  },
+  {
+   "code": "69",
+   "color": [
+    154,
+    107,
+    52
+   ],
+   "name": "Date"
   },
   {
    "code": "12",
@@ -29,6 +48,15 @@
    "name": "Old World Buff"
   },
   {
+   "code": "70",
+   "color": [
+    104,
+    70,
+    128
+   ],
+   "name": "Medium Purple"
+  },
+  {
    "code": "13",
    "color": [
     152,
@@ -36,6 +64,15 @@
     34
    ],
    "name": "Auburn"
+  },
+  {
+   "code": "71",
+   "color": [
+    202,
+    75,
+    39
+   ],
+   "name": "Saffron Orange"
   },
   {
    "code": "14",
@@ -47,6 +84,15 @@
    "name": "Raspberry Ice"
   },
   {
+   "code": "72",
+   "color": [
+    150,
+    162,
+    61
+   ],
+   "name": "MD Lime"
+  },
+  {
    "code": "15",
    "color": [
     60,
@@ -54,6 +100,15 @@
     83
    ],
    "name": "Dark Jade Green"
+  },
+  {
+   "code": "73",
+   "color": [
+    137,
+    121,
+    116
+   ],
+   "name": "Dusk"
   },
   {
    "code": "16",
@@ -522,60 +577,6 @@
     38
    ],
    "name": "Meadow Green"
-  },
-  {
-   "code": "68",
-   "color": [
-    0,
-    124,
-    64
-   ],
-   "name": "Kelly"
-  },
-  {
-   "code": "69",
-   "color": [
-    154,
-    107,
-    52
-   ],
-   "name": "Date"
-  },
-  {
-   "code": "70",
-   "color": [
-    104,
-    70,
-    128
-   ],
-   "name": "Medium Purple"
-  },
-  {
-   "code": "71",
-   "color": [
-    202,
-    75,
-    39
-   ],
-   "name": "Saffron Orange"
-  },
-  {
-   "code": "72",
-   "color": [
-    150,
-    162,
-    61
-   ],
-   "name": "MD Lime"
-  },
-  {
-   "code": "73",
-   "color": [
-    137,
-    121,
-    116
-   ],
-   "name": "Dusk"
   }
  ]
 }
