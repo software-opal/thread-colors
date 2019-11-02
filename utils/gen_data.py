@@ -197,28 +197,36 @@ class ThreadData:
             return
         folder = ROOT_FOLDER / "data/brands/"
         folder.mkdir(parents=True, exist_ok=True)
-        rollup_data = {}
-        for brand, threads in self.normalised_data.items():
-            filename = self.brand_filenames[brand]
+        rollup_data = collections.defaultdict(list)
+        brand_files = collections.defaultdict(set)
+        for key, threads in self.normalised_data.items():
+            brand, _ = key
+            filename = self.brand_filenames[key]
             thread_data = [
                 {"code": code, "name": name, "color": color}
-                for (code, name, color) in threads
+                for code, (name, color) in threads.items()
             ]
-            rollup_data[brand] = thread_data
+            rollup_data[brand] += thread_data
             (folder / f"{filename}.json").write_text(
                 json.dumps(
-                    {"brand": brand, "threads": thread_data},
+                    {"brand": brand, "key": filename, "threads": thread_data},
                     sort_keys=True,
                     indent=1,
                     ensure_ascii=True,
                 )
             )
-        folder.with_suffix(".json").write_text(
+            brand_files[brand].add(f"brands/{filename}.json")
+        link_file = folder.with_suffix(".json")
+        if link_file.is_file():
+            try:
+                to_merge = json.loads(link_file.read_text())
+                for brand, filenames in to_merge:
+                    brand_files[brand] += filenames
+            except:
+                pass
+        link_file.write_text(
             json.dumps(
-                {
-                    brand: f"brands/{filename}.json"
-                    for brand, filename in self.brand_filenames.items()
-                },
+                {brand: sorted(filenames) for brand, filenames in brand_files.items()},
                 sort_keys=True,
                 indent=1,
                 ensure_ascii=True,
