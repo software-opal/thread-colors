@@ -1,0 +1,113 @@
+{
+ "brand": "Gunold Silk",
+ "threads": [
+  {
+   "code": "91002",
+   "color": [
+    249,
+    249,
+    244
+   ],
+   "name": "Soft White"
+  },
+  {
+   "code": "91005",
+   "color": [
+    0,
+    0,
+    0
+   ],
+   "name": "Black"
+  },
+  {
+   "code": "91011",
+   "color": [
+    183,
+    169,
+    172
+   ],
+   "name": "Steel Gray"
+  },
+  {
+   "code": "91019",
+   "color": [
+    236,
+    160,
+    130
+   ],
+   "name": "Peach"
+  },
+  {
+   "code": "91029",
+   "color": [
+    160,
+    195,
+    235
+   ],
+   "name": "Med. Blue"
+  },
+  {
+   "code": "91044",
+   "color": [
+    29,
+    6,
+    47
+   ],
+   "name": "Midnight Blue"
+  },
+  {
+   "code": "91071",
+   "color": [
+    249,
+    249,
+    234
+   ],
+   "name": "Off White"
+  },
+  {
+   "code": "91101",
+   "color": [
+    9,
+    133,
+    49
+   ],
+   "name": "True Green"
+  },
+  {
+   "code": "91135",
+   "color": [
+    255,
+    240,
+    114
+   ],
+   "name": "Pastel Yellow"
+  },
+  {
+   "code": "91170",
+   "color": [
+    151,
+    95,
+    47
+   ],
+   "name": "Lt. Brown"
+  },
+  {
+   "code": "91225",
+   "color": [
+    250,
+    203,
+    203
+   ],
+   "name": "Pastel Pink"
+  },
+  {
+   "code": "91317",
+   "color": [
+    255,
+    0,
+    0
+   ],
+   "name": "Blaze Medium"
+  }
+ ]
+}

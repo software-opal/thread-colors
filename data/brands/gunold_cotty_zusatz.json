@@ -1,0 +1,581 @@
+{
+ "brand": "Gunold COTTY-Zusatz",
+ "threads": [
+  {
+   "code": "10",
+   "color": [
+    224,
+    177,
+    92
+   ],
+   "name": "Golden Cream"
+  },
+  {
+   "code": "11",
+   "color": [
+    133,
+    91,
+    79
+   ],
+   "name": "Nutmeg"
+  },
+  {
+   "code": "12",
+   "color": [
+    211,
+    148,
+    86
+   ],
+   "name": "Old World Buff"
+  },
+  {
+   "code": "13",
+   "color": [
+    152,
+    78,
+    34
+   ],
+   "name": "Auburn"
+  },
+  {
+   "code": "14",
+   "color": [
+    185,
+    54,
+    52
+   ],
+   "name": "Raspberry Ice"
+  },
+  {
+   "code": "15",
+   "color": [
+    60,
+    102,
+    83
+   ],
+   "name": "Dark Jade Green"
+  },
+  {
+   "code": "16",
+   "color": [
+    231,
+    127,
+    118
+   ],
+   "name": "Dark Peach"
+  },
+  {
+   "code": "17",
+   "color": [
+    63,
+    113,
+    159
+   ],
+   "name": "Blueball"
+  },
+  {
+   "code": "18",
+   "color": [
+    130,
+    23,
+    73
+   ],
+   "name": "Claret"
+  },
+  {
+   "code": "19",
+   "color": [
+    93,
+    19,
+    54
+   ],
+   "name": "French Raspberry Red"
+  },
+  {
+   "code": "20",
+   "color": [
+    155,
+    27,
+    43
+   ],
+   "name": "Medium Rust Red"
+  },
+  {
+   "code": "21",
+   "color": [
+    0,
+    162,
+    171
+   ],
+   "name": "Bright Peacock"
+  },
+  {
+   "code": "22",
+   "color": [
+    0,
+    101,
+    48
+   ],
+   "name": "Green"
+  },
+  {
+   "code": "23",
+   "color": [
+    255,
+    219,
+    124
+   ],
+   "name": "Buttercup"
+  },
+  {
+   "code": "24",
+   "color": [
+    0,
+    71,
+    138
+   ],
+   "name": "Blue"
+  },
+  {
+   "code": "25",
+   "color": [
+    149,
+    44,
+    60
+   ],
+   "name": "Perfect Ruby"
+  },
+  {
+   "code": "26",
+   "color": [
+    0,
+    114,
+    130
+   ],
+   "name": "Dark Aqua Green"
+  },
+  {
+   "code": "27",
+   "color": [
+    0,
+    85,
+    114
+   ],
+   "name": "Peacock"
+  },
+  {
+   "code": "28",
+   "color": [
+    176,
+    55,
+    117
+   ],
+   "name": "Deep Plum"
+  },
+  {
+   "code": "29",
+   "color": [
+    37,
+    29,
+    90
+   ],
+   "name": "Royal Blue"
+  },
+  {
+   "code": "30",
+   "color": [
+    165,
+    73,
+    118
+   ],
+   "name": "Medium Purple"
+  },
+  {
+   "code": "31",
+   "color": [
+    0,
+    86,
+    133
+   ],
+   "name": "Fire Blue"
+  },
+  {
+   "code": "32",
+   "color": [
+    102,
+    118,
+    82
+   ],
+   "name": "Medium Blue/Green"
+  },
+  {
+   "code": "33",
+   "color": [
+    99,
+    39,
+    62
+   ],
+   "name": "Grape Shake"
+  },
+  {
+   "code": "34",
+   "color": [
+    77,
+    88,
+    57
+   ],
+   "name": "Avocado Medium Dark"
+  },
+  {
+   "code": "35",
+   "color": [
+    21,
+    93,
+    45
+   ],
+   "name": "Green"
+  },
+  {
+   "code": "36",
+   "color": [
+    30,
+    92,
+    46
+   ],
+   "name": "Green Gables"
+  },
+  {
+   "code": "37",
+   "color": [
+    92,
+    137,
+    85
+   ],
+   "name": "Endicott Bay"
+  },
+  {
+   "code": "38",
+   "color": [
+    74,
+    74,
+    62
+   ],
+   "name": "Olive"
+  },
+  {
+   "code": "39",
+   "color": [
+    250,
+    228,
+    69
+   ],
+   "name": "Lemon"
+  },
+  {
+   "code": "40",
+   "color": [
+    222,
+    1,
+    86
+   ],
+   "name": "Salmon Dark"
+  },
+  {
+   "code": "41",
+   "color": [
+    143,
+    48,
+    96
+   ],
+   "name": "Boysenberry"
+  },
+  {
+   "code": "42",
+   "color": [
+    149,
+    34,
+    100
+   ],
+   "name": "Dark Red"
+  },
+  {
+   "code": "43",
+   "color": [
+    124,
+    20,
+    91
+   ],
+   "name": "Dark Purple"
+  },
+  {
+   "code": "44",
+   "color": [
+    73,
+    143,
+    159
+   ],
+   "name": "Capri"
+  },
+  {
+   "code": "45",
+   "color": [
+    0,
+    94,
+    118
+   ],
+   "name": "Peacock"
+  },
+  {
+   "code": "46",
+   "color": [
+    41,
+    16,
+    31
+   ],
+   "name": "Dk. Navy"
+  },
+  {
+   "code": "47",
+   "color": [
+    173,
+    70,
+    64
+   ],
+   "name": "Baked Apple"
+  },
+  {
+   "code": "48",
+   "color": [
+    0,
+    117,
+    123
+   ],
+   "name": "Dark Turquoise"
+  },
+  {
+   "code": "49",
+   "color": [
+    95,
+    39,
+    42
+   ],
+   "name": "Dark Sepia"
+  },
+  {
+   "code": "50",
+   "color": [
+    66,
+    146,
+    193
+   ],
+   "name": "Blithe"
+  },
+  {
+   "code": "51",
+   "color": [
+    21,
+    71,
+    127
+   ],
+   "name": "Dark Blue"
+  },
+  {
+   "code": "52",
+   "color": [
+    182,
+    93,
+    72
+   ],
+   "name": "Burnt Sienna"
+  },
+  {
+   "code": "53",
+   "color": [
+    0,
+    105,
+    143
+   ],
+   "name": "Peacock Blue dark"
+  },
+  {
+   "code": "54",
+   "color": [
+    0,
+    77,
+    149
+   ],
+   "name": "Blue"
+  },
+  {
+   "code": "55",
+   "color": [
+    120,
+    127,
+    189
+   ],
+   "name": "Deep Periwinkle"
+  },
+  {
+   "code": "56",
+   "color": [
+    211,
+    80,
+    137
+   ],
+   "name": "Ruby Glint"
+  },
+  {
+   "code": "57",
+   "color": [
+    74,
+    28,
+    36
+   ],
+   "name": "Rich Burgundy"
+  },
+  {
+   "code": "58",
+   "color": [
+    99,
+    105,
+    164
+   ],
+   "name": "Baja Blue"
+  },
+  {
+   "code": "59",
+   "color": [
+    201,
+    55,
+    90
+   ],
+   "name": "Teaberry"
+  },
+  {
+   "code": "60",
+   "color": [
+    216,
+    53,
+    77
+   ],
+   "name": "Lafayette Rose"
+  },
+  {
+   "code": "61",
+   "color": [
+    77,
+    169,
+    69
+   ],
+   "name": "Medium Lime"
+  },
+  {
+   "code": "62",
+   "color": [
+    140,
+    116,
+    53
+   ],
+   "name": "Autumn Green"
+  },
+  {
+   "code": "63",
+   "color": [
+    39,
+    64,
+    125
+   ],
+   "name": "Royal"
+  },
+  {
+   "code": "64",
+   "color": [
+    69,
+    28,
+    83
+   ],
+   "name": "Amaranth Purple"
+  },
+  {
+   "code": "65",
+   "color": [
+    77,
+    47,
+    106
+   ],
+   "name": "Huckleberry"
+  },
+  {
+   "code": "66",
+   "color": [
+    104,
+    35,
+    107
+   ],
+   "name": "Redish Purple"
+  },
+  {
+   "code": "67",
+   "color": [
+    106,
+    138,
+    38
+   ],
+   "name": "Meadow Green"
+  },
+  {
+   "code": "68",
+   "color": [
+    0,
+    124,
+    64
+   ],
+   "name": "Kelly"
+  },
+  {
+   "code": "69",
+   "color": [
+    154,
+    107,
+    52
+   ],
+   "name": "Date"
+  },
+  {
+   "code": "70",
+   "color": [
+    104,
+    70,
+    128
+   ],
+   "name": "Medium Purple"
+  },
+  {
+   "code": "71",
+   "color": [
+    202,
+    75,
+    39
+   ],
+   "name": "Saffron Orange"
+  },
+  {
+   "code": "72",
+   "color": [
+    150,
+    162,
+    61
+   ],
+   "name": "MD Lime"
+  },
+  {
+   "code": "73",
+   "color": [
+    137,
+    121,
+    116
+   ],
+   "name": "Dusk"
+  }
+ ]
+}

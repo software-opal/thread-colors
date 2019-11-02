@@ -1,0 +1,221 @@
+{
+ "brand": "Madeira Fire Fighter",
+ "threads": [
+  {
+   "code": "N1610",
+   "color": [
+    183,
+    195,
+    197
+   ],
+   "name": "Celestial Blue"
+  },
+  {
+   "code": "N1624",
+   "color": [
+    244,
+    167,
+    49
+   ],
+   "name": "Gold"
+  },
+  {
+   "code": "N1640",
+   "color": [
+    94,
+    97,
+    98
+   ],
+   "name": "Twilight"
+  },
+  {
+   "code": "N1643",
+   "color": [
+    45,
+    53,
+    65
+   ],
+   "name": "Navy"
+  },
+  {
+   "code": "N1651",
+   "color": [
+    0,
+    132,
+    69
+   ],
+   "name": "Kelly"
+  },
+  {
+   "code": "N1682",
+   "color": [
+    205,
+    191,
+    172
+   ],
+   "name": "Taupe"
+  },
+  {
+   "code": "N1725",
+   "color": [
+    202,
+    140,
+    63
+   ],
+   "name": "Old Gold"
+  },
+  {
+   "code": "N1747",
+   "color": [
+    164,
+    30,
+    53
+   ],
+   "name": "Very Red"
+  },
+  {
+   "code": "N1784",
+   "color": [
+    117,
+    44,
+    58
+   ],
+   "name": "Wine"
+  },
+  {
+   "code": "N1800",
+   "color": [
+    47,
+    48,
+    50
+   ],
+   "name": "Black"
+  },
+  {
+   "code": "N1803",
+   "color": [
+    237,
+    236,
+    223
+   ],
+   "name": "Lily White"
+  },
+  {
+   "code": "N1815",
+   "color": [
+    252,
+    190,
+    210
+   ],
+   "name": "Pink"
+  },
+  {
+   "code": "N1838",
+   "color": [
+    180,
+    34,
+    50
+   ],
+   "name": "Foxy Red"
+  },
+  {
+   "code": "N1842",
+   "color": [
+    0,
+    85,
+    149
+   ],
+   "name": "Fire Blue"
+  },
+  {
+   "code": "N1845",
+   "color": [
+    109,
+    195,
+    159
+   ],
+   "name": "Neptune Green"
+  },
+  {
+   "code": "N1851",
+   "color": [
+    0,
+    94,
+    56
+   ],
+   "name": "Fleece Green"
+  },
+  {
+   "code": "N1859",
+   "color": [
+    75,
+    63,
+    62
+   ],
+   "name": "Brown Mule"
+  },
+  {
+   "code": "N1874",
+   "color": [
+    144,
+    179,
+    216
+   ],
+   "name": "Baby Blue"
+  },
+  {
+   "code": "N1884",
+   "color": [
+    197,
+    169,
+    141
+   ],
+   "name": "Rattan"
+  },
+  {
+   "code": "N1918",
+   "color": [
+    138,
+    139,
+    142
+   ],
+   "name": "Limestone"
+  },
+  {
+   "code": "N1924",
+   "color": [
+    251,
+    212,
+    0
+   ],
+   "name": "Moonbeam"
+  },
+  {
+   "code": "N1957",
+   "color": [
+    74,
+    64,
+    50
+   ],
+   "name": "Best Brown"
+  },
+  {
+   "code": "N1965",
+   "color": [
+    249,
+    103,
+    34
+   ],
+   "name": "Orange"
+  },
+  {
+   "code": "N1977",
+   "color": [
+    0,
+    129,
+    175
+   ],
+   "name": "Dark Turquoise Blue"
+  }
+ ]
+}

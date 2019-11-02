@@ -1,0 +1,905 @@
+{
+ "brand": "Outback Embroidery Rayon",
+ "threads": [
+  {
+   "code": "E000",
+   "color": [
+    40,
+    41,
+    42
+   ],
+   "name": "Black"
+  },
+  {
+   "code": "E001",
+   "color": [
+    227,
+    229,
+    251
+   ],
+   "name": "White"
+  },
+  {
+   "code": "E012",
+   "color": [
+    163,
+    175,
+    179
+   ],
+   "name": "Marri Grey"
+  },
+  {
+   "code": "E013",
+   "color": [
+    238,
+    209,
+    202
+   ],
+   "name": "Lite Pink"
+  },
+  {
+   "code": "E019",
+   "color": [
+    233,
+    172,
+    165
+   ],
+   "name": "Medium Peach"
+  },
+  {
+   "code": "E020",
+   "color": [
+    247,
+    136,
+    125
+   ],
+   "name": "Mature Peach"
+  },
+  {
+   "code": "E021",
+   "color": [
+    186,
+    82,
+    47
+   ],
+   "name": "Sebring Orange"
+  },
+  {
+   "code": "E023",
+   "color": [
+    243,
+    218,
+    104
+   ],
+   "name": "Lemon"
+  },
+  {
+   "code": "E024",
+   "color": [
+    255,
+    166,
+    23
+   ],
+   "name": "Challis"
+  },
+  {
+   "code": "E025",
+   "color": [
+    205,
+    129,
+    38
+   ],
+   "name": "Rich Gold"
+  },
+  {
+   "code": "E027",
+   "color": [
+    154,
+    186,
+    202
+   ],
+   "name": "Light Sky"
+  },
+  {
+   "code": "E028",
+   "color": [
+    90,
+    137,
+    170
+   ],
+   "name": "Medium Sky"
+  },
+  {
+   "code": "E031",
+   "color": [
+    199,
+    161,
+    191
+   ],
+   "name": "Pastel Orchid"
+  },
+  {
+   "code": "E032",
+   "color": [
+    129,
+    108,
+    157
+   ],
+   "name": "Light Purple"
+  },
+  {
+   "code": "E033",
+   "color": [
+    110,
+    73,
+    129
+   ],
+   "name": "Medium Purple"
+  },
+  {
+   "code": "E035",
+   "color": [
+    99,
+    47,
+    61
+   ],
+   "name": "Port"
+  },
+  {
+   "code": "E037",
+   "color": [
+    190,
+    20,
+    34
+   ],
+   "name": "Picardy Red"
+  },
+  {
+   "code": "E039",
+   "color": [
+    161,
+    40,
+    49
+   ],
+   "name": "Red Satin"
+  },
+  {
+   "code": "E040",
+   "color": [
+    138,
+    134,
+    137
+   ],
+   "name": "Smoke Grey"
+  },
+  {
+   "code": "E041",
+   "color": [
+    110,
+    116,
+    123
+   ],
+   "name": "Gundagai Grey"
+  },
+  {
+   "code": "E042",
+   "color": [
+    33,
+    79,
+    119
+   ],
+   "name": "Wild Blue"
+  },
+  {
+   "code": "E045",
+   "color": [
+    134,
+    204,
+    191
+   ],
+   "name": "Light Ocean"
+  },
+  {
+   "code": "E046",
+   "color": [
+    79,
+    172,
+    152
+   ],
+   "name": "Ocean Green"
+  },
+  {
+   "code": "E047",
+   "color": [
+    158,
+    189,
+    162
+   ],
+   "name": "Sage Green"
+  },
+  {
+   "code": "E051",
+   "color": [
+    0,
+    135,
+    69
+   ],
+   "name": "Xmas Tree"
+  },
+  {
+   "code": "E053",
+   "color": [
+    231,
+    183,
+    165
+   ],
+   "name": "Lite Peach"
+  },
+  {
+   "code": "E054",
+   "color": [
+    172,
+    131,
+    122
+   ],
+   "name": "Dark Flesh"
+  },
+  {
+   "code": "E055",
+   "color": [
+    212,
+    177,
+    143
+   ],
+   "name": "Bridle"
+  },
+  {
+   "code": "E057",
+   "color": [
+    160,
+    113,
+    85
+   ],
+   "name": "Medium Bridle"
+  },
+  {
+   "code": "E059",
+   "color": [
+    66,
+    55,
+    52
+   ],
+   "name": "Chocalate"
+  },
+  {
+   "code": "E060",
+   "color": [
+    179,
+    166,
+    151
+   ],
+   "name": "Drum"
+  },
+  {
+   "code": "E067",
+   "color": [
+    240,
+    221,
+    166
+   ],
+   "name": "Sunshine"
+  },
+  {
+   "code": "E068",
+   "color": [
+    255,
+    188,
+    22
+   ],
+   "name": "Sunfire Yellow"
+  },
+  {
+   "code": "E070",
+   "color": [
+    210,
+    169,
+    112
+   ],
+   "name": "Inca"
+  },
+  {
+   "code": "E071",
+   "color": [
+    233,
+    229,
+    220
+   ],
+   "name": "Atherton Ivory"
+  },
+  {
+   "code": "E075",
+   "color": [
+    132,
+    168,
+    200
+   ],
+   "name": "Grey Blue"
+  },
+  {
+   "code": "E078",
+   "color": [
+    237,
+    83,
+    42
+   ],
+   "name": "Valencia Orange"
+  },
+  {
+   "code": "E080",
+   "color": [
+    166,
+    125,
+    169
+   ],
+   "name": "Jester"
+  },
+  {
+   "code": "E082",
+   "color": [
+    205,
+    186,
+    166
+   ],
+   "name": "Sunlit Biege"
+  },
+  {
+   "code": "E084",
+   "color": [
+    210,
+    185,
+    157
+   ],
+   "name": "Medium Flesh"
+  },
+  {
+   "code": "E087",
+   "color": [
+    188,
+    188,
+    184
+   ],
+   "name": "Gloster Grey"
+  },
+  {
+   "code": "E096",
+   "color": [
+    0,
+    125,
+    155
+   ],
+   "name": "Rhodes Blue"
+  },
+  {
+   "code": "E100",
+   "color": [
+    190,
+    209,
+    178
+   ],
+   "name": "Pastel Green"
+  },
+  {
+   "code": "E101",
+   "color": [
+    72,
+    143,
+    82
+   ],
+   "name": "Vine Green"
+  },
+  {
+   "code": "E103",
+   "color": [
+    52,
+    77,
+    59
+   ],
+   "name": "Baltic Green"
+  },
+  {
+   "code": "E106",
+   "color": [
+    151,
+    140,
+    84
+   ],
+   "name": "Lite Kiwi Green"
+  },
+  {
+   "code": "E107",
+   "color": [
+    232,
+    98,
+    118
+   ],
+   "name": "Reef"
+  },
+  {
+   "code": "E108",
+   "color": [
+    233,
+    139,
+    163
+   ],
+   "name": "Dark Riley"
+  },
+  {
+   "code": "E110",
+   "color": [
+    191,
+    47,
+    110
+   ],
+   "name": "Medium Ruby"
+  },
+  {
+   "code": "E112",
+   "color": [
+    83,
+    70,
+    128
+   ],
+   "name": "Wild Violet"
+  },
+  {
+   "code": "E116",
+   "color": [
+    235,
+    173,
+    191
+   ],
+   "name": "Jester Pink"
+  },
+  {
+   "code": "E117",
+   "color": [
+    212,
+    98,
+    142
+   ],
+   "name": "Dark Ruby"
+  },
+  {
+   "code": "E118",
+   "color": [
+    137,
+    145,
+    147
+   ],
+   "name": "Light Smoke"
+  },
+  {
+   "code": "E120",
+   "color": [
+    230,
+    186,
+    201
+   ],
+   "name": "Pastel Jester"
+  },
+  {
+   "code": "E127",
+   "color": [
+    220,
+    186,
+    165
+   ],
+   "name": "Katherine Biege"
+  },
+  {
+   "code": "E128",
+   "color": [
+    162,
+    144,
+    130
+   ],
+   "name": "Medium Leather"
+  },
+  {
+   "code": "E133",
+   "color": [
+    39,
+    126,
+    183
+   ],
+   "name": "Dolphin Blue"
+  },
+  {
+   "code": "E134",
+   "color": [
+    0,
+    85,
+    146
+   ],
+   "name": "Falcon Blue"
+  },
+  {
+   "code": "E137",
+   "color": [
+    244,
+    140,
+    13
+   ],
+   "name": "Dark Challis"
+  },
+  {
+   "code": "E142",
+   "color": [
+    183,
+    155,
+    143
+   ],
+   "name": "Light Leather"
+  },
+  {
+   "code": "E143",
+   "color": [
+    75,
+    107,
+    153
+   ],
+   "name": "Pastel Navy"
+  },
+  {
+   "code": "E144",
+   "color": [
+    132,
+    106,
+    87
+   ],
+   "name": "Dark Leather"
+  },
+  {
+   "code": "E145",
+   "color": [
+    94,
+    62,
+    53
+   ],
+   "name": "Light Chocalate"
+  },
+  {
+   "code": "E153",
+   "color": [
+    172,
+    191,
+    203
+   ],
+   "name": "Smoky Blue"
+  },
+  {
+   "code": "E156",
+   "color": [
+    120,
+    115,
+    70
+   ],
+   "name": "Light Military"
+  },
+  {
+   "code": "E157",
+   "color": [
+    119,
+    107,
+    76
+   ],
+   "name": "Medium Military"
+  },
+  {
+   "code": "E164",
+   "color": [
+    83,
+    90,
+    99
+   ],
+   "name": "Carbine Grey"
+  },
+  {
+   "code": "E166",
+   "color": [
+    30,
+    68,
+    130
+   ],
+   "name": "Omega Blue"
+  },
+  {
+   "code": "E169",
+   "color": [
+    141,
+    153,
+    73
+   ],
+   "name": "Kiwi Fruit"
+  },
+  {
+   "code": "E170",
+   "color": [
+    90,
+    110,
+    41
+   ],
+   "name": "Dark Kiwi"
+  },
+  {
+   "code": "E173",
+   "color": [
+    194,
+    121,
+    63
+   ],
+   "name": "Dark Almond"
+  },
+  {
+   "code": "E177",
+   "color": [
+    0,
+    109,
+    167
+   ],
+   "name": "Night Mist Blue"
+  },
+  {
+   "code": "E181",
+   "color": [
+    137,
+    37,
+    51
+   ],
+   "name": "Dry Red"
+  },
+  {
+   "code": "E186",
+   "color": [
+    169,
+    0,
+    66
+   ],
+   "name": "Light Ruby"
+  },
+  {
+   "code": "E188",
+   "color": [
+    122,
+    59,
+    109
+   ],
+   "name": "Royal Ruby"
+  },
+  {
+   "code": "E190",
+   "color": [
+    149,
+    127,
+    61
+   ],
+   "name": "Inca Green"
+  },
+  {
+   "code": "E192",
+   "color": [
+    169,
+    121,
+    42
+   ],
+   "name": "Dark Inca"
+  },
+  {
+   "code": "E222",
+   "color": [
+    233,
+    222,
+    186
+   ],
+   "name": "Pale Lemon"
+  },
+  {
+   "code": "E223",
+   "color": [
+    239,
+    200,
+    44
+   ],
+   "name": "Monaro Yellow"
+  },
+  {
+   "code": "E243",
+   "color": [
+    51,
+    60,
+    83
+   ],
+   "name": "Midnite Blue"
+  },
+  {
+   "code": "E248",
+   "color": [
+    154,
+    206,
+    105
+   ],
+   "name": "Lina Mint"
+  },
+  {
+   "code": "E250",
+   "color": [
+    0,
+    112,
+    71
+   ],
+   "name": "Jewel Green"
+  },
+  {
+   "code": "E251",
+   "color": [
+    0,
+    145,
+    76
+   ],
+   "name": "Bold Green"
+  },
+  {
+   "code": "E278",
+   "color": [
+    255,
+    102,
+    22
+   ],
+   "name": "Navel Orange"
+  },
+  {
+   "code": "E280",
+   "color": [
+    0,
+    119,
+    99
+   ],
+   "name": "Dark Ocean"
+  },
+  {
+   "code": "E290",
+   "color": [
+    21,
+    75,
+    75
+   ],
+   "name": "Deep Ocean"
+  },
+  {
+   "code": "E295",
+   "color": [
+    0,
+    140,
+    172
+   ],
+   "name": "Vibrant Blue"
+  },
+  {
+   "code": "E301",
+   "color": [
+    56,
+    168,
+    125
+   ],
+   "name": "Kelp"
+  },
+  {
+   "code": "E304",
+   "color": [
+    14,
+    78,
+    63
+   ],
+   "name": "Seaton Green"
+  },
+  {
+   "code": "E309",
+   "color": [
+    214,
+    99,
+    153
+   ],
+   "name": "Aggs Pink"
+  },
+  {
+   "code": "E310",
+   "color": [
+    149,
+    60,
+    115
+   ],
+   "name": "Ruby Prudence"
+  },
+  {
+   "code": "E311",
+   "color": [
+    142,
+    139,
+    184
+   ],
+   "name": "Pastel Lavender"
+  },
+  {
+   "code": "E338",
+   "color": [
+    171,
+    143,
+    106
+   ],
+   "name": "Wholemeal"
+  },
+  {
+   "code": "E357",
+   "color": [
+    72,
+    70,
+    52
+   ],
+   "name": "Verdoro Green"
+  },
+  {
+   "code": "E370",
+   "color": [
+    35,
+    79,
+    59
+   ],
+   "name": "Duck Green"
+  },
+  {
+   "code": "E372",
+   "color": [
+    240,
+    166,
+    83
+   ],
+   "name": "Light Inca"
+  },
+  {
+   "code": "E376",
+   "color": [
+    35,
+    77,
+    103
+   ],
+   "name": "Blue Steel"
+  },
+  {
+   "code": "E379",
+   "color": [
+    225,
+    84,
+    69
+   ],
+   "name": "Manderin Red"
+  },
+  {
+   "code": "E385",
+   "color": [
+    97,
+    37,
+    51
+   ],
+   "name": "Etna Moroon"
+  },
+  {
+   "code": "E394",
+   "color": [
+    80,
+    84,
+    67
+   ],
+   "name": "Earth Green"
+  }
+ ]
+}
