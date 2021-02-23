@@ -14,7 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "vue": "^2.5.2"
+    "vue": "^2.6.11"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
@@ -30,15 +30,15 @@
     "babel-preset-stage-2": "^6.22.0",
     "chai": "^4.1.2",
     "chalk": "^2.0.1",
-    "copy-webpack-plugin": "^4.0.1",
+    "copy-webpack-plugin": "^5.1.1",
     "cross-env": "^5.0.1",
-    "css-loader": "^3.2.0",
+    "css-loader": "^3.4.0",
     "eslint": "^4.15.0",
     "eslint-config-airbnb-base": "^11.3.0",
     "eslint-friendly-formatter": "^3.0.0",
     "eslint-import-resolver-webpack": "^0.8.3",
     "eslint-loader": "^1.7.1",
-    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-import": "^2.19.1",
     "eslint-plugin-vue": "^4.0.0",
     "extract-text-webpack-plugin": "^3.0.0",
     "file-loader": "^1.1.4",
@@ -70,13 +70,13 @@
     "sinon": "^4.0.0",
     "sinon-chai": "^2.8.0",
     "uglifyjs-webpack-plugin": "^1.1.1",
-    "url-loader": "^2.2.0",
+    "url-loader": "^2.3.0",
     "vue-loader": "^13.3.0",
     "vue-style-loader": "^3.0.1",
-    "vue-template-compiler": "^2.5.2",
-    "webpack": "^3.6.0",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.41.4",
     "webpack-bundle-analyzer": "^3.6.0",
-    "webpack-dev-server": "^3.1.11",
+    "webpack-dev-server": "^3.10.1",
     "webpack-merge": "^4.1.0"
   },
   "engines": {
