@@ -85,13 +85,13 @@ class ThreadData:
                 and self.detector.result["encoding"] == "ISO-8859-1"
                 and b"\xA0" in data
             ):
-                # Some files seem to use 0xA0 value as a space!?
-                # Try decoding without it, as it usually increases the confidence
-                result = self.decode_string(data.replace(b"\xA0", b" "))
-                if result is not None:
-                    return result
-        decoded = data.decode(self.detector.result["encoding"]).replace("\xA0", " ")
-        if UNICODE_REPLACEMENT_CHAR in decoded or "\xA0" in decoded:
+                # 0xA0 is a non-breaking space; we replace it with a normal space
+                # This is the correct encoding.
+                pass
+            else:
+                print(f"Uncertain encoding; {self.detector.result}")
+        decoded = data.decode(self.detector.result["encoding"])
+        if UNICODE_REPLACEMENT_CHAR in decoded:
             print(f"Cannot decode data: {data}")
         return decoded
 
